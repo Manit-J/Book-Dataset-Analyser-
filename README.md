@@ -1,12 +1,12 @@
 ECOR 1042 Data Analyser Project Version 1.0
 Date: 12/04/2022
 
-Contact Information:
+Contact Information
 --------------------
 
 Team Leader Name: Manit Jawa
 
-Description:
+Description
 ------------
 
 The project contains a user interface in which the user is
@@ -24,14 +24,14 @@ The project is made up of the following files:
 - T006_main.py 					_A Python Script
 - google_books_dataset.csv                _Excel dataset with book information_
 
-Installation:
+Installation
 -------------
 
 Python 3.7.4 or a later model must be installed.
 Only built-in Python modules are being used. 
 Therefore, no external modules must be loaded.
 
-Usage:
+Usage
 ------
 
 >python T006_main.py
@@ -47,7 +47,7 @@ If a wrong type input is entered the program will end.
 
 
 
-Credits:
+Credits
 --------
 
 **Manit Jawa Wrote:**
